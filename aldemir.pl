@@ -43,3 +43,7 @@ espiritu(espiritu del agua, rivoria)
 espiritu(espiritu de la montaña, montelar)
 espiritu(espiritu de la tierra, durania)
 
+aldea(rivoria)
+aldea(montelar)
+aldea(durania)
+
